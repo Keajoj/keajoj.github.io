@@ -35,6 +35,7 @@ This is an example GitHub Page created for CS-HU250. It contains only nonsense.
         
     
     It's really such a terrible thing to know.
+    
 - Taken from [this post](https://sparrowlucero.tumblr.com/post/157711020085/lie-close-laura-said-pricking-up-her-golden) by [Dog Soup](https://sparrowlucero.tumblr.com/).
 
 ------
